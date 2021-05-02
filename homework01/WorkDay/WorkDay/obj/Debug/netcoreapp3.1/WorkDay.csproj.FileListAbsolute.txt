@@ -1,0 +1,13 @@
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\bin\Debug\netcoreapp3.1\WorkDay.exe
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\bin\Debug\netcoreapp3.1\WorkDay.deps.json
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\bin\Debug\netcoreapp3.1\WorkDay.runtimeconfig.json
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\bin\Debug\netcoreapp3.1\WorkDay.runtimeconfig.dev.json
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\bin\Debug\netcoreapp3.1\WorkDay.dll
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\bin\Debug\netcoreapp3.1\WorkDay.pdb
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\obj\Debug\netcoreapp3.1\WorkDay.csprojAssemblyReference.cache
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\obj\Debug\netcoreapp3.1\WorkDay.AssemblyInfoInputs.cache
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\obj\Debug\netcoreapp3.1\WorkDay.AssemblyInfo.cs
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\obj\Debug\netcoreapp3.1\WorkDay.csproj.CoreCompileInputs.cache
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\obj\Debug\netcoreapp3.1\WorkDay.dll
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\obj\Debug\netcoreapp3.1\WorkDay.pdb
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\WorkDay\WorkDay\obj\Debug\netcoreapp3.1\WorkDay.genruntimeconfig.cache

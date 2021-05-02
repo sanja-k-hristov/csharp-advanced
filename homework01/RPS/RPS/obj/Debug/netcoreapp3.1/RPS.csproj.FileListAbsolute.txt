@@ -1,0 +1,13 @@
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\bin\Debug\netcoreapp3.1\RPS.exe
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\bin\Debug\netcoreapp3.1\RPS.deps.json
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\bin\Debug\netcoreapp3.1\RPS.runtimeconfig.json
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\bin\Debug\netcoreapp3.1\RPS.runtimeconfig.dev.json
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\bin\Debug\netcoreapp3.1\RPS.dll
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\bin\Debug\netcoreapp3.1\RPS.pdb
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\obj\Debug\netcoreapp3.1\RPS.AssemblyInfoInputs.cache
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\obj\Debug\netcoreapp3.1\RPS.AssemblyInfo.cs
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\obj\Debug\netcoreapp3.1\RPS.csproj.CoreCompileInputs.cache
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\obj\Debug\netcoreapp3.1\RPS.dll
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\obj\Debug\netcoreapp3.1\RPS.pdb
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\obj\Debug\netcoreapp3.1\RPS.genruntimeconfig.cache
+C:\Users\sofij\OneDrive\Desktop\homeworks c#advanced\homework01\RPS\RPS\obj\Debug\netcoreapp3.1\RPS.csprojAssemblyReference.cache
