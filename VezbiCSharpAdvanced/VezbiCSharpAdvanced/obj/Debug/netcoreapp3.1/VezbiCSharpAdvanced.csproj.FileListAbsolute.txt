@@ -1,0 +1,13 @@
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\bin\Debug\netcoreapp3.1\VezbiCSharpAdvanced.exe
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\bin\Debug\netcoreapp3.1\VezbiCSharpAdvanced.deps.json
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\bin\Debug\netcoreapp3.1\VezbiCSharpAdvanced.runtimeconfig.json
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\bin\Debug\netcoreapp3.1\VezbiCSharpAdvanced.runtimeconfig.dev.json
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\bin\Debug\netcoreapp3.1\VezbiCSharpAdvanced.dll
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\bin\Debug\netcoreapp3.1\VezbiCSharpAdvanced.pdb
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\obj\Debug\netcoreapp3.1\VezbiCSharpAdvanced.csprojAssemblyReference.cache
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\obj\Debug\netcoreapp3.1\VezbiCSharpAdvanced.AssemblyInfoInputs.cache
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\obj\Debug\netcoreapp3.1\VezbiCSharpAdvanced.AssemblyInfo.cs
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\obj\Debug\netcoreapp3.1\VezbiCSharpAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\obj\Debug\netcoreapp3.1\VezbiCSharpAdvanced.dll
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\obj\Debug\netcoreapp3.1\VezbiCSharpAdvanced.pdb
+C:\Users\sofij\OneDrive\Desktop\Vezbi CSharpAdvanced\VezbiCSharpAdvanced\VezbiCSharpAdvanced\obj\Debug\netcoreapp3.1\VezbiCSharpAdvanced.genruntimeconfig.cache
